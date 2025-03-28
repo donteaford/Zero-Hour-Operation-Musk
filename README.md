@@ -154,3 +154,5 @@ I can be contacted directly trhough my email at Donteaford@gmail.com
 **All stories, actions, references, and characters are fictional and are not meant to represent real people or events.
 
 **Remember: Stay anonymous. Stay vigilant. We do not forget, We do not forgive. Expect us. The future depends on it. 
+
+*** THIS SOFTWARE IS COVERED UNDER THE MIT LICENSE AND A COPY IS IN THE SOFTWARE'S MAIN FOLDER.
