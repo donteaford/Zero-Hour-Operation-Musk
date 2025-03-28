@@ -153,4 +153,4 @@ I can be contacted directly trhough my email at Donteaford@gmail.com
 ---
 **All stories, actions, references, and characters are fictional and are not meant to represent real people or events.
 
-**Remember: Stay anonymous. Stay vigilant. We do not foreget, we do not forgive. Expect us. The future depends on it. 
+**Remember: Stay anonymous. Stay vigilant. We do not forget, We do not forgive. Expect us. The future depends on it. 
