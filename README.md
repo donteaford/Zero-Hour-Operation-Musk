@@ -139,12 +139,18 @@ Navigate through a retro-styled desktop environment, use terminal commands, and 
 
 ## 🔐 Security Note
 
-This is a fictional game environment. All hacking activities are simulated and intended for entertainment purposes only. 
+** This is a fictional game environment. 
+** All hacking activities are simulated and intended for entertainment purposes only. 
 ** No real systems or networks are affected.
 
 ## 🎵 Credits
 
-Created as a cyberpunk-themed hacking simulation game, combining retro aesthetics with modern gameplay mechanics by game creator and programmer: PerniciousBeing AKA Don Teaford. This game is open-source and free to play and modify. All I ask is that you create a fork and  give me credit for the original game idea.
+Created as a cyberpunk-themed hacking simulation game, combining retro aesthetics with modern gameplay mechanics 
+by video game creator and programmer: Pernicious AKA Don Teaford. This game is open-source and free to play and modify. 
+All I ask is that you create a fork of the repository and give me credit for the original game idea.
+
+I can be contacted directly trhough my email at Donteaford@gmail.com
 ---
-All stories, actions, references, and characters are fictional and are not meant to represent real people or events.
-Remember: Stay anonymous. Stay vigilant. The future depends on it. 
+**All stories, actions, references, and characters are fictional and are not meant to represent real people or events.
+
+**Remember: Stay anonymous. Stay vigilant. We do not foreget, we do not forgive. Expect us. The future depends on it. 
