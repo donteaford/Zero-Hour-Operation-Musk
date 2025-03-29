@@ -3,11 +3,11 @@ To start the game, you must first install LoVE for LUA, add it's folder to your 
 Then inside the game folder run "love ." and the game will run automatically.
 
 # Game Theme
-A retro-futuristic cyber hacking game where you infiltrate Elon Musk's corporate empire to expose the truth.
+A retro-futuristic cyber hacking game where you infiltrate Leon Musk's corporate empire to expose the truth.
 
 ## 🎮 Game Overview
 
-You are a skilled hacker recruited by the Resistance to infiltrate and expose the hidden operations within Elon Musk's companies. 
+You are a skilled hacker recruited by the Resistance to infiltrate and expose the hidden operations within Leon Musk's companies. 
 Navigate through a retro-styled desktop environment, use terminal commands, and execute strategic cyber attacks to complete missions and uncover the truth.
 
 ## 🚀 Features
@@ -22,13 +22,13 @@ Navigate through a retro-styled desktop environment, use terminal commands, and 
 ## 🎯 Main Missions
 
 ### 1. Tesla Infiltration
-- **Objective**: Gain access to Tesla's internal network
+- **Objective**: Gain access to Tesler's internal network
 - **Steps**:
-  1. Scan Tesla network for vulnerabilities
+  1. Scan Tesler network for vulnerabilities
   2. Brute force SSH password
   3. Access Tesla mainframe
   4. Plant malware in production system
-- **Reward**: Disrupt Tesla's production line with an amusing twist
+- **Reward**: Disrupt Tesler's production line with an amusing twist
 
 ### 2. Starlink Breach
 - **Objective**: Take control of the Starlink satellite network
