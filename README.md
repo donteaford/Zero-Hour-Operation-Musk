@@ -146,10 +146,9 @@ Navigate through a retro-styled desktop environment, use terminal commands, and 
 ## 🎵 Credits
 
 Created as a cyberpunk-themed hacking simulation game, combining retro aesthetics with modern gameplay mechanics 
-by video game creator and programmer: Pernicious AKA Don Teaford. This game is open-source and free to play and modify. 
+by video game creator and programmer: Pernicious. This game is open-source and free to play and modify. 
 All I ask is that you create a fork of the repository and give me credit for the original game idea.
 
-I can be contacted directly trhough my email at Donteaford@gmail.com
 ---
 **All stories, actions, references, and characters are fictional and are not meant to represent real people or events.
 
